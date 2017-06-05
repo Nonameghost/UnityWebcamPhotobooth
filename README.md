@@ -10,4 +10,4 @@ A quick test I made to take webcam pictures in Unity.
 
 This is currently just a test so everything's hardcoded and bad. Enjoy!
 
-![Example Image](screenshotColor.png)
+![Example Image](ScreenshotColor.png?raw=true)
